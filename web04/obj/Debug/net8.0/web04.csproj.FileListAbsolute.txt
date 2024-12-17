@@ -1,0 +1,8 @@
+C:\Users\melin\source\repos\web04\web04\obj\Debug\net8.0\web04.csproj.AssemblyReference.cache
+C:\Users\melin\source\repos\web04\web04\obj\Debug\net8.0\web04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melin\source\repos\web04\web04\obj\Debug\net8.0\web04.AssemblyInfoInputs.cache
+C:\Users\melin\source\repos\web04\web04\obj\Debug\net8.0\web04.AssemblyInfo.cs
+C:\Users\melin\source\repos\web04\web04\obj\Debug\net8.0\web04.csproj.CoreCompileInputs.cache
+C:\Users\melin\source\repos\web04\web04\obj\Debug\net8.0\web04.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\melin\source\repos\web04\web04\obj\Debug\net8.0\web04.RazorAssemblyInfo.cache
+C:\Users\melin\source\repos\web04\web04\obj\Debug\net8.0\web04.RazorAssemblyInfo.cs

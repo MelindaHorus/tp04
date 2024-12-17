@@ -1,0 +1,6 @@
+C:\Users\melin\source\repos\web04\WebApiCRUD.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_WebApiCRUD.Tests
+C:\Users\melin\source\repos\web04\WebApiCRUD.Tests\obj\Debug\net8.0\WebApiCRUD.Tests.csproj.AssemblyReference.cache
+C:\Users\melin\source\repos\web04\WebApiCRUD.Tests\obj\Debug\net8.0\WebApiCRUD.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melin\source\repos\web04\WebApiCRUD.Tests\obj\Debug\net8.0\WebApiCRUD.Tests.AssemblyInfoInputs.cache
+C:\Users\melin\source\repos\web04\WebApiCRUD.Tests\obj\Debug\net8.0\WebApiCRUD.Tests.AssemblyInfo.cs
+C:\Users\melin\source\repos\web04\WebApiCRUD.Tests\obj\Debug\net8.0\WebApiCRUD.Tests.csproj.CoreCompileInputs.cache
